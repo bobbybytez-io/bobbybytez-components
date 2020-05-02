@@ -1,7 +1,7 @@
 {
   "name": "bobbybytez-components",
   "version": "1.0.0",
-  "description": "A component UI library that is easy, fast, and modern.",
+  "description": "A component UI library made with styled-components that is easy, fast, and modern.",
   "author": "bobbybytez-io",
   "license": "MIT",
   "repository": "bobbybytez-io/bobbybytez-components",
